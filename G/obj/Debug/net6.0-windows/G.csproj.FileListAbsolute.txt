@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\G\G\G\bin\Debug\net6.0-windows\G.exe
+C:\Users\User\Desktop\G\G\G\bin\Debug\net6.0-windows\G.deps.json
+C:\Users\User\Desktop\G\G\G\bin\Debug\net6.0-windows\G.runtimeconfig.json
+C:\Users\User\Desktop\G\G\G\bin\Debug\net6.0-windows\G.dll
+C:\Users\User\Desktop\G\G\G\bin\Debug\net6.0-windows\G.pdb
+C:\Users\User\Desktop\G\G\G\obj\Debug\net6.0-windows\G.Form1.resources
+C:\Users\User\Desktop\G\G\G\obj\Debug\net6.0-windows\G.csproj.GenerateResource.cache
+C:\Users\User\Desktop\G\G\G\obj\Debug\net6.0-windows\G.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\G\G\G\obj\Debug\net6.0-windows\G.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\G\G\G\obj\Debug\net6.0-windows\G.AssemblyInfo.cs
+C:\Users\User\Desktop\G\G\G\obj\Debug\net6.0-windows\G.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\G\G\G\obj\Debug\net6.0-windows\G.dll
+C:\Users\User\Desktop\G\G\G\obj\Debug\net6.0-windows\refint\G.dll
+C:\Users\User\Desktop\G\G\G\obj\Debug\net6.0-windows\G.pdb
+C:\Users\User\Desktop\G\G\G\obj\Debug\net6.0-windows\G.genruntimeconfig.cache
+C:\Users\User\Desktop\G\G\G\obj\Debug\net6.0-windows\ref\G.dll
